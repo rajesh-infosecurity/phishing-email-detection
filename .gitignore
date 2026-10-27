@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+model.joblib
+evaluation_report.json
+confusion_matrix.png
+.env
